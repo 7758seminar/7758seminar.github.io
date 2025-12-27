@@ -206,7 +206,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "「周⼆下午谁没来」「⽔仙⽃活佛」研究组BLOG"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "本研究组BLOG从⾳乐性、⽂学性、思想性，对「周⼆下午谁没来？」项⽬的《七七连环杀⼈调》正式版专辑<b>（强调：正式版！）</b>和「⽔仙⽃活佛」 项⽬写作中的作品，进⾏解析和细赏。 "
+      subtitle = "本研究组部落格从⾳乐性、⽂学性、思想性，对「周⼆下午谁没来？」项⽬的《七七连环杀⼈调》正式版专辑<b>（强调：正式版！）</b>和「⽔仙⽃活佛」 项⽬写作中的作品，进⾏解析和细赏。 "
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
