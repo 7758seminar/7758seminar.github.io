@@ -480,9 +480,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         category = "Announcements"
         categoryId = "DIC_kwDOQoUnYs4Cz0qD"
         # automatically adapt the current theme i18n configuration when empty
-        lang = ""
+        lang = "zh-cn"
         mapping = "pathname"
-        reactionsEnabled = "0"
+        reactionsEnabled = "1"
         emitMetadata = "0"
         inputPosition = "bottom"
         lazyLoading = false
