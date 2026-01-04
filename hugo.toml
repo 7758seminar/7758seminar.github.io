@@ -482,15 +482,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         # automatically adapt the current theme i18n configuration when empty
         lang = "zh-CN"
         mapping = "pathname"
-        reactionsEnabled = "0"
+        reactionsEnabled = "1"
         data-strict="0"
         emitMetadata = "0"
         inputPosition = "bottom"
         lazyLoading = false
         lightTheme = "light"
         darkTheme = "dark"
-        crossorigin="anonymous"
-        
+        crossorigin = "anonymous"
     # LoveIt NEW | 0.2.7 Third-party library config
     [params.page.library]
       [params.page.library.css]
