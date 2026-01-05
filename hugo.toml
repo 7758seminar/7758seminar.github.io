@@ -477,7 +477,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         enable = true
         repo = "7758seminar/7758seminar.github.io"
         repoId = "R_kgDOQoUnYg"
-        category = "Announcements"
+        category = "General"
         categoryId = "DIC_kwDOQoUnYs4Cz0qD"
         # automatically adapt the current theme i18n configuration when empty
         lang = "zh-CN"
